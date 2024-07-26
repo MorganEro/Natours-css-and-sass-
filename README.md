@@ -38,6 +38,7 @@ This is a css and sass project
 4. clip-path ot make shaped borders
 5. animated background images
 6. using autoprefixer
+7. responsive images
 
 ### Continued development
 
