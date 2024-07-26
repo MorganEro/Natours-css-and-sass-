@@ -1,10 +1,10 @@
-# Advanced CSS Course--nexter
+# Advanced CSS Course--Natours
 
 This is a css and sass project
 
 ## Table of contents
 
-- [Advanced CSS Course--nexter](#advanced-css-course--nexter)
+- [Advanced CSS Course--Natours](#advanced-css-course--natours)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
